@@ -1,0 +1,30 @@
+body {
+     background-color:lightblue;
+}
+pr {
+    position:absolute;
+    bottom:630;
+    left:10;
+}
+
+h1 {
+    position:absolute;
+    bottom:670;
+    left:10;
+}
+ul {
+    position:absolute;
+    bottom:520;
+    left:10;
+}
+p{
+    position:absolute;
+    bottom:70;
+    left:10;
+}
+
+img{
+    position:absolute;
+    bottom:100;
+    left:50;
+}
